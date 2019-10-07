@@ -115,7 +115,7 @@
 ## find_meetup_08
 * greet
 	- utter_greet
-* greet
+* meetup
 	- utter_meetup
 * affirm
 	- utter_confirm
@@ -130,7 +130,7 @@
 ## find_meetup_9
 * greet
 	- utter_greet
-* greet
+* meetup
 	- utter_meetup
 * deny
 	- utter_deny
